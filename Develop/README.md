@@ -1,11 +1,11 @@
 
-    [![create-readme-generator](https://img.shields.io/github/languages/top/kvrivas854/create-readme-generator)](https://img.shields.io/github/languages/top/kvrivas854/create-readme-generator)
+    [![create-read-me](https://img.shields.io/github/languages/top/kvrivas854/create-read-me)](https://img.shields.io/github/languages/top/kvrivas854/create-read-me)
     ## Title
-    New project one
+    New Project
 
 
     ## Description
-    This is a new project
+    This is a New Project
     
     ## Table of Contents
     - [Installation](#installation)
@@ -16,7 +16,7 @@
     - [Questions](#questions)
     
     ## Installation
-    install through npm i
+    install package
     
     ## Usage
     
@@ -28,9 +28,9 @@
     run tests
     
     ## License
-    Notice: This application is covered under Apache.
+    Notice: This application is covered under MIT.
     
     ## Questions
-    Feel free to reach out 123@aol.com or visit github page at "https://github.com/kvrivas854" for more information.
+    Feel free to reach out kellyv.rivas@gmail.com or visit github page at "https://github.com/kvrivas854" for more information.
 
     
